@@ -1,0 +1,37 @@
+{
+  "name": "ion-datetime-picker-calendar-iso-sunday",
+  "version": "1.0.0",
+  "description": "ISO calendar starting on Sunday for ion-datetime-picker",
+  "main": "dist/index.js",
+  "moduleType": [
+    "globals",
+    "amd",
+    "node"
+  ],
+  "keywords": [
+    "ion-datetime-picker",
+    "ionic",
+    "calendar",
+    "iso",
+    "sunday"
+  ],
+  "authors": [
+    "Kate Miháliková <kate@katemihalikova.cz> (https://katemihalikova.cz/)"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/katemihalikova/ion-datetime-picker-calendar-iso-sunday",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "src",
+    "package.json",
+    "tsconfig.json",
+    "tslint.json",
+    "webpack.config.js",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ],
+  "dependencies": {
+    "ion-datetime-picker": "^1.0.0"
+  }
+}
